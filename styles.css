@@ -1847,7 +1847,7 @@
 .icon-meio-ambiente:before {
   content: "\73";
 }
-.icon-participacao_e_transparencia:before {
+.icon-participacao-e-transparencia:before {
   content: "\74";
 }
 .icon-politica:before {
@@ -1879,4 +1879,16 @@
 }
 .icon-edemocracia:before {
   content: "\43";
+}
+.icon-shoes:before {
+  content: "\44";
+}
+.icon-pacifier:before {
+  content: "\45";
+}
+.icon-carrotyoga:before {
+  content: "\46";
+}
+.icon-lotus:before {
+  content: "\47";
 }
