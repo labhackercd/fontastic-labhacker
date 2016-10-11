@@ -1880,15 +1880,18 @@
 .icon-edemocracia:before {
   content: "\43";
 }
-.icon-shoes:before {
-  content: "\44";
-}
 .icon-pacifier:before {
   content: "\45";
 }
-.icon-carrotyoga:before {
+.icon-carrot:before {
   content: "\46";
 }
 .icon-lotus:before {
   content: "\47";
+}
+.icon-shoes:before {
+  content: "\44";
+}
+.icon-crib:before {
+  content: "\48";
 }
