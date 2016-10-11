@@ -1880,9 +1880,6 @@
 .icon-edemocracia:before {
   content: "\43";
 }
-.icon-pacifier:before {
-  content: "\45";
-}
 .icon-carrot:before {
   content: "\46";
 }
@@ -1892,6 +1889,12 @@
 .icon-shoes:before {
   content: "\44";
 }
-.icon-crib:before {
+.icon-battle-axe:before {
+  content: "\45";
+}
+.icon-holy:before {
   content: "\48";
+}
+.icon-pacifier:before {
+  content: "\49";
 }
