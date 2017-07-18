@@ -1829,9 +1829,6 @@
 .icon-economia:before {
   content: "\6d";
 }
-.icon-educacao:before {
-  content: "\6e";
-}
 .icon-esportes:before {
   content: "\6f";
 }
@@ -1900,4 +1897,34 @@
 }
 .icon-reforma-politica:before {
   content: "\4a";
+}
+.icon-educacao:before {
+  content: "\6e";
+}
+.icon-arte-cultura-informacao:before {
+  content: "\4b";
+}
+.icon-economia-financas-publicas:before {
+  content: "\4c";
+}
+.icon-trabalho-emprego:before {
+  content: "\4d";
+}
+.icon-comercio-consumidor:before {
+  content: "\4e";
+}
+.icon-direitos-humanos-minorias:before {
+  content: "\4f";
+}
+.icon-comunicacao-social:before {
+  content: "\50";
+}
+.icon-agricultura:before {
+  content: "\51";
+}
+.icon-viacao-transporte:before {
+  content: "\52";
+}
+.icon-ciencia-tecnologia:before {
+  content: "\53";
 }
